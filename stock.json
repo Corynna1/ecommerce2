@@ -1,0 +1,8 @@
+ [
+    {"id": 1, "nombre": "Short 1", "tipo": "Short", "cantidad": 1, "desc": "Short Corto colores disponibles", "precio": 1200, "talla": "L", "img": "https://res.cloudinary.com/dw3juko9l/image/upload/v1665772477/Ecommerce/buzo_nm300a.jpg"},
+    {"id": 2, "nombre": "Playera 1", "tipo": "Playera", "cantidad": 1, "desc": "Playera colores disponibles", "precio": 500, "talla": "L", "img": "https://res.cloudinary.com/dw3juko9l/image/upload/v1665772477/Ecommerce/remera_vudc9p.jpg"},
+    {"id": 3, "nombre": "Camisa 1", "tipo": "camisa", "cantidad": 1, "desc": "Camisa colores disponibles", "precio": 900, "talla": "L", "img": "https://res.cloudinary.com/dw3juko9l/image/upload/v1665772478/Ecommerce/camisa_lddidd.jpg"},
+    {"id": 4, "nombre": "Pantalon 1", "tipo": "pantalon", "cantidad": 1, "desc": "Pantalon colores disponibles", "precio": 1600, "talla": "L", "img": "https://res.cloudinary.com/dw3juko9l/image/upload/v1665772478/Ecommerce/pantalon_pfgtxd.jpg"}
+
+
+]
